@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="BYT">
+  <title>BYT</title>
+  <!-- « le carrefour ». Pour fond clair ou jaune. Sur fond sombre : logo-mark-inverse.svg -->
+  <g>
+    <clipPath id="m-hex"><polygon points="24,2.5 42.62,13.25 42.62,34.75 24,45.5 5.38,34.75 5.38,13.25"/></clipPath>
+    <polygon points="24,2.5 42.62,13.25 42.62,34.75 24,45.5 5.38,34.75 5.38,13.25" fill="#15161A" stroke="#15161A" stroke-width="3" stroke-linejoin="round"/>
+    <g clip-path="url(#m-hex)" fill="none">
+      <path d="M-0.21 10.02 L24 24 L48.21 10.03 M24 24 L24 51.95" stroke="#FFB300" stroke-width="8.4"/>
+      <path d="M24 24 L-0.21 10.02 M24 24 L48.21 10.03 M24 26.5 L24 51.95" stroke="#15161A" stroke-width="1.5" stroke-dasharray="4 3.4" stroke-dashoffset="-2.6"/>
+    </g>
+  </g>
+</svg>

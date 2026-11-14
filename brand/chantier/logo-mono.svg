@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.4 48" role="img" aria-label="BYT" color="#15161A">
+  <title>BYT</title>
+  <!-- une seule couleur : currentColor (définir « color » sur le parent, ou changer l'attribut color ci-dessus). La route est évidée. -->
+  <mask id="mono-road" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+    <rect width="48" height="48" fill="#fff"/>
+    <path d="M-0.21 10.02 L24 24 L48.21 10.03 M24 24 L24 51.95" fill="none" stroke="#000" stroke-width="6.4"/>
+  </mask>
+  <polygon points="24,2.5 42.62,13.25 42.62,34.75 24,45.5 5.38,34.75 5.38,13.25" fill="currentColor" stroke="currentColor" stroke-width="3" stroke-linejoin="round" mask="url(#mono-road)"/>
+  <path fill="currentColor" d="M57.86 42.6V5.4H66.46Q71.67 5.4 74.07 7.5Q76.46 9.61 76.46 14.47Q76.46 15.12 76.46 15.72Q76.46 16.33 76.41 16.93Q76.25 19.47 75.27 20.97Q74.3 22.47 72.23 23.16V24.28Q74.37 24.98 75.37 26.5Q76.37 28.02 76.46 30.65Q76.51 31.42 76.51 32.07Q76.51 32.72 76.46 33.53Q76.25 38.37 73.96 40.48Q71.67 42.6 66.46 42.6ZM64.83 36.46H66.46Q67.93 36.46 68.71 35.68Q69.48 34.9 69.48 33.44Q69.48 32.81 69.48 32.21Q69.48 31.6 69.48 30.98Q69.48 28.67 68.78 27.71Q68.07 26.74 66.46 26.74H64.83ZM64.83 20.61H66.46Q67.93 20.61 68.71 19.59Q69.48 18.58 69.48 16.75Q69.48 16.07 69.48 15.41Q69.48 14.75 69.48 14.1Q69.48 12.86 68.71 12.2Q67.93 11.54 66.46 11.54H64.83Z M86.46 42.6V33.77V33.72L79.48 5.4H86.6L88.6 14.42L89.29 25.35H90.6L91.29 14.42L93.29 5.4H100.41L93.43 33.72V33.77V42.6Z M108.17 42.6V11.54H102.2V5.4H121.12V11.54H115.15V42.6Z"/>
+</svg>
